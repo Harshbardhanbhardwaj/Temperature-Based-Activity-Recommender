@@ -1,0 +1,11 @@
+Temperature_C,Weather,Feedback,Sentiment_Label,Recommended_Activity
+35,Sunny,Too hot to do anything,-1,Stay indoors
+22,Cloudy,"Nice breeze, feels good",1,Go for a walk
+18,Rainy,Wet and dull day,0,Read a book
+10,Cold,"Freezing, not feeling good",-1,Stay indoors
+25,Clear,Pleasant and fresh,1,Play outside
+30,Hot,Sweating and tired,-1,Stay hydrated indoors
+15,Cold,Shivering all day,-1,Wear warm clothes indoors
+5,Freezing,Extremely cold morning,-1,Stay indoors with heater
+28,Warm,Warm and energetic,1,Go cycling
+20,Windy,A bit windy but okay,0,Go for a short walk
